@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dilpreet2k (Dilpreet Singh)
-- 👀 I’m interested in Javascript
+- 👋 Hi, I’m Dilpreet Singh (@dilpreet2k)
+- 👀 I’m interested in Javascript and Java
 - 🌱 I’m currently learning/working on Angular, Node.js and Java
 
 <!---
